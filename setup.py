@@ -11,6 +11,7 @@ setup(name='beantop', version=version,
     author_email='alexsiri7@gmail.com',
     license='GPL',
     long_description=long_description,
+    description='Top command for Beanstalkd',
     url='https://github.com/alexsiri7/beantop', 
     packages = find_packages(),
     classifiers=[
